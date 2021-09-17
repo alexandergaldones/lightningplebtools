@@ -23,7 +23,12 @@ for a curated list of tools, packages and resources as a lightning node operator
 * [Plebnet Telegram](https://t.me/plebnet)([telegram](https://t.me/plebnet)) - The largest plebnet group, with a super amazing graph/web of plebs, where resources flow and friends are made!
 * [Plebnet Telegram - Lightning 101](https://t.me/CHLNgroup)([telegram](https://t.me/CHLNgroup)) - this group is fantastic with onboarding users to custodial lightning, and helping people make their first transactions on the lightning network. People may get their minds blown by the speed and cheap fees that are a product of the lightning network.
 * [LND Developer Community](https://lightning.engineering/slack.html)([Slack](https://lightning.engineering/slack.html)) - The best and brightest in bitcoin engineering, design, and business development by Lightning Labs.
-## Developers
+## Developer Tools
+* [Balance of Satoshis(BOS)](https://github.com/alexbosworth/balanceofsatoshis)([website](https://github.com/alexbosworth/balanceofsatoshis/)) - Commands for working with LND balances.
+
+* [Charge LND](https://github.com/accumulator/charge-lnd)([website](https://github.com/accumulator/charge-lnd/)) - This script matches your open Lightning channels against a number of customizable criteria and applies channel fees based on the matching policy.
+
+* [LNtop](https://github.com/edouardparis/lntop)([website](https://github.com/edouardparis/lntop/)) - lntop is an interactive text-mode channels viewer for Unix systems. Realtime stats of your payment channels
 
 ## eCommerce
 
