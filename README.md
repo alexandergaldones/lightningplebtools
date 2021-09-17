@@ -4,6 +4,12 @@
 for a curated list of tools, packages and resources as a lightning node operator.
 
 ## Analytics
+* [LNnodeinsight](https://lnnodeinsight.com/)([website](https://lnnodeinsight.com/)) - Discover network-wide statistics on nodes, interactively explore node local networks, measure the impact of opening or closing a channel, and identify potentially profitable paths in the network
+
+* [LnRouter App](https://lnrouter.app/)([website](https://lnrouter.app/)) - LnRouter provides Lightning Network insights for router node operators and more. Feel free text me new ideas, bug reports and more.
+
+* [Lightning Terminal](https://terminal.lightning.engineering/)([website](https://terminal.lightning.engineering/)) - Gather actionable insights about your Lightning node. For Lightning node operators to gauge their node's performance and get actionable recommendations on ways to improve.
+
 
 ## Blogs
 
